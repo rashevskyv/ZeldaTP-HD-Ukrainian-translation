@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001019E500,000500001019E600,000500001019C800,0005000E1019C800,FFFFFFFF3BC226D1
+name = Picoripi UA
+path = "The Legend of Zelda: Twilight Princess HD/Mods/Picoripi UA"
+description = Ukrainian translation (text and fonts) built by Picoripi (zelda_bmg plugin).
+version = 7

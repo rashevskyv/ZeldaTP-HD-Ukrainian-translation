@@ -1,0 +1,40 @@
+{
+  "game": "The Legend of Zelda: Twilight Princess HD (Wii U, USA)",
+  "title_lows": [
+    "1019C800",
+    "1019E500",
+    "1019E600"
+  ],
+  "graphic_pack": "Picoripi_UA_TPHD",
+  "originals": {
+    "content/DecompressedSizeList.txt": "113f760d8d76f7603ffc4b0493a71e7c712b176add17c3f4edb648ddef3420a6",
+    "content/FileSizeList.txt": "7295e592d1af26918f496b2170e338f721443915a194d95f56c140f27333ce5e",
+    "content/res/Fonteu/fontres.arc": "d9b7d13fe2d5237cb46e1b3f4453d6f8b817753f0c9ac8da19a68758d0a833ab",
+    "content/res/Fonteu/fontres.pack.gz": "2bb769578effcdfc9fe436f3ccb90b00cbc99735211abd342315a2f5ba63c912",
+    "content/res/Fonteu/rubyres.arc": "a74239f7d71501258102c6ec504b59fc74b03e36e45d380f95bc04052df4c0eb",
+    "content/res/Fonteu/rubyres.pack.gz": "6bc1d4511386321ef59959bdc3560134acea78f5e26d26314814ae5800f6a4a7",
+    "content/res/Fontus/fontres.arc": "df04573d2ac7c76a10481985fe74ed77a1de10ac6772807498668efd5a97cf93",
+    "content/res/Fontus/fontres.pack.gz": "53e0297f9860efcc4e1b0b6db2c481e65676e80cdae40d04c2aa020b5bea8934",
+    "content/res/Fontus/rubyres.arc": "374aa39d05c23bad250a44a71cb83f6fe70c9838fb2be3bbddc42ee8f04d07bb",
+    "content/res/Fontus/rubyres.pack.gz": "602a194a766645bd2bbdeb935ce27af8a19f6a1c6856537d2dbfc787f1306e56",
+    "content/res/Msguk/bmgres.arc": "56166d61eb1d2827d5f54f8f414b8449f0c8d65c67ce9a919db8274ad3399d9c",
+    "content/res/Msguk/bmgres1.arc": "2b52a8163acc3e645ed605fcaf9cc62689c19a84bd3f28455a1b11a2c6e85f03",
+    "content/res/Msguk/bmgres2.arc": "c510d7c4c116e0450d309084629052d02e2efe9112f7f0892845cb221d448921",
+    "content/res/Msguk/bmgres3.arc": "3c68748c711aef59f0cdcac7149f9b8d30f16d007d283056c6313d4c102430ea",
+    "content/res/Msguk/bmgres4.arc": "80146a87f1af9c537f163671af084534faa975ef9ed197eb433eb1c3a98b60f7",
+    "content/res/Msguk/bmgres5.arc": "38c7c2eed54224e6f60e940312b069661d76e41f08cee678e859be08952adaf2",
+    "content/res/Msguk/bmgres6.arc": "e3248cb294d122c8906d2dfe0cd66dd59e7a56a19927f7efcfdd346c1f802faf",
+    "content/res/Msguk/bmgres7.arc": "9b98542d205cac96f37cc35bdf07c4c07c78f35209b39ab44354ed9f9713f318",
+    "content/res/Msguk/bmgres8.arc": "3d9feb066e11a0a3bb834253c12f5a43b7ea990550c3524017bb5bb0008ece45",
+    "content/res/Msgus/bmgres.arc": "33d7764c3e1de7d826159d689120ab9dd70499767f1c3faf52ceb6fd11b83727",
+    "content/res/Msgus/bmgres1.arc": "148359e25a13bbbf5f362a7a3b170c30ccadd025c6b809d477dbf881024de5eb",
+    "content/res/Msgus/bmgres2.arc": "0642bc4f021713494c549c8fed620b64e58e5dc32dcadeb6d1d4be2eebd08584",
+    "content/res/Msgus/bmgres3.arc": "c3b22e769912472e5692401c58cd1e61988c366855671b7d588146b6ee568bdd",
+    "content/res/Msgus/bmgres4.arc": "0a10d1fb3c43a21f8e2a92b76c5115ddde3a707587ef580f967a0c07c3513a8f",
+    "content/res/Msgus/bmgres5.arc": "d336c029b18e5d13ff9949c057077783045fe960f880966425717f4df6fe265b",
+    "content/res/Msgus/bmgres6.arc": "ad77ffa6f4ce23b5b499980e81c5f7f2beb2b9c465b4578d722ff021039be579",
+    "content/res/Msgus/bmgres7.arc": "e297275bc00e16d515ddef363426aed3b8b3d7c00dd1df7b367c34f9bbf8528e",
+    "content/res/Msgus/bmgres8.arc": "b5f3585eedac712fe89175e5488da762a503fe60f3dbc44f4af9bb1ced2c00aa"
+  },
+  "translation_version": "2026-11-10"
+}
